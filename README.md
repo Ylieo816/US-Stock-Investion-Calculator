@@ -1,0 +1,1 @@
+This repo is used to program the investion strategy for US Stock
